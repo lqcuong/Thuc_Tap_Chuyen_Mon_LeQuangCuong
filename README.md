@@ -30,7 +30,7 @@ Lớp: CNTT K58
 
 ## Hướng dẫn sử dụng
 - Chạy file createSQL.sql (em đính kèm trong drive hoặc trong folder SQL Server github) để tạo database (gồm table và data)
-- Cấu hình lại port của SQL Server là: 1433, sửa ServerName + Login Name + Password (...)
-- Chạy file QLPhongMach.exe
+- Cấu hình lại port của SQL Server là: 1433, sửa ServerName + Login Name + Password (trong ConnectDatabaseSQL.java)
+- Chạy CenterForm.java
 
 Xin cám ơn!
