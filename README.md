@@ -5,7 +5,7 @@ Lớp: CNTT K58
 ## Đề tài: Quản lý phòng mạch tư
 ## Phần 1: Công nghệ sử dụng
 - Java
-- SQL Server
+- Sử dụng SQL Server để lưu dữ liệu
 ## Phần 2: Các chức năng đã hoàn thành
 1. Quản lý bệnh nhân:
 	+ Hiển thị danh sách bệnh nhân
